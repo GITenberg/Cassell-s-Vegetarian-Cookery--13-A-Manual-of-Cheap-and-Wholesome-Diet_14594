@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5585
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Gay_Payne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14594#Cassell-s-Vegetarian-Cookery--13-A-Manual-of-Cheap-and-Wholesome-Diet
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-01-04'
 gutenberg_type: Text
