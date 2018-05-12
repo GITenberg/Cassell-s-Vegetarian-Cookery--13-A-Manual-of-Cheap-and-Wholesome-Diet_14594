@@ -1,0 +1,31 @@
+_repo: Cassell-s-Vegetarian-Cookery--13-A-Manual-of-Cheap-and-Wholesome-Diet_14594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Payne, A. G. (Arthur Gay)
+    aliases:
+    - Browne, Phillis
+    - Payne, Arthur Gay
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '5585'
+    url: http://www.gutenberg.org/2009/agents/5585
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Gay_Payne
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vegetarian cooking'
+- !lcc 'TX'
+title: "Cassell's Vegetarian Cookery\r\nA Manual of Cheap and Wholesome Diet"
+url: http://www.gutenberg.org/ebooks/14594
